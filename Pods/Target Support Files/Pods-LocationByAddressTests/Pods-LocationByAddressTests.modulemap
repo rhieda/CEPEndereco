@@ -1,0 +1,6 @@
+framework module Pods_LocationByAddressTests {
+  umbrella header "Pods-LocationByAddressTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
